@@ -1,1 +1,3 @@
-# brettREADME.md
+# brett
+CSU long beach
+SQL,VISUAL COMMUNICATIONS, STATISTICS
